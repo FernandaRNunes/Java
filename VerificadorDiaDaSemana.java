@@ -1,5 +1,6 @@
 /*5. Criar uma nova classe com o nome VerificadorDiaDaSemana. Crie uma variável diaDaSemana com um número de 1 a 7 (ex: 4). Use a estrutura
 switch-case para determinar se o número corresponde a um "Dia útil" (2 a 6) ou "Fim de semana" (1 e 7) e exiba o resultado. */
+/*Okay */
 public class VerificadorDiaDaSemana {
     public static void main(String[] args) {
         int diaDaSemana = 10;
