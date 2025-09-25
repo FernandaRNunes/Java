@@ -22,5 +22,6 @@ public class MediaDeNotas{
     }
         
         System.out.printf("A média das notas válidas é: %2f ", soma/cont);
+        sc.close();
 }
 }
